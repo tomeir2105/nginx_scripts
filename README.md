@@ -10,12 +10,6 @@ virtual host and modules install scripts
 
 This script automates the installation and configuration of essential NGINX modules, including user authentication, secure pages, and CGI script execution.
 
-## Author
-
-- *Created by:* Meir  
-- *Date:* March 7, 2025  
-- *Version:* 1  
-
 ## Usage
 
 ### Running the Script

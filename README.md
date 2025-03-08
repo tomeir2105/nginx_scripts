@@ -69,7 +69,7 @@ This script is provided as-is with no warranty. Use at your own risk
 
 
 
-# Nginx Modules Install Script
+# Nginx Virtual Host Install Script
 
 ## Overview
 This Bash script automates the process of setting up an Nginx virtual host on a Linux system. It performs the following actions:

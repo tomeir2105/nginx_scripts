@@ -1,8 +1,8 @@
-### nginx scripts
+# nginx scripts
 virtual host and modules install scripts
 
-# Remarks
-##  This scripts were tested on Ubuntu / Debian Systems only
+### Remarks
+This scripts were tested on Ubuntu / Debian Systems only
 
 # NGINX Modules Install Script
 

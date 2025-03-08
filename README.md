@@ -7,7 +7,8 @@ This scripts were tested on Ubuntu / Debian Systems only
 # NGINX Modules Install Script
 
 ## Overview
-This script automates the installation and configuration of essential NGINX modules, including user authentication, secure pages, and CGI script execution.
+This script automates the installation and configuration of essential NGINX modules, 
+including user authentication, secure pages, and CGI script execution.
 
 ## Usage
 

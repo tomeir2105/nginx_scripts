@@ -1,1 +1,8 @@
-Create bash scripts to 
+# NGINX TASK
+create a script that will setup user_dir, auth , auth with PAM and cgi scripting.
+
+## Tasks
+- check nginx is installed
+- create a script to create a virtual host
+- check dependencies for user_dir, auth and cgi and install if neccesary.
+- provide argument based script for all of the above.

@@ -15,7 +15,8 @@ This script automates the installation and configuration of essential NGINX modu
 ### Running the Script
 
 bash
-./nginx_modules_install.sh <domain> <nginx_username>
+chmod +x modules_install.sh
+./modules_install.sh <domain> <nginx_username>
 
 
 ### Arguments
